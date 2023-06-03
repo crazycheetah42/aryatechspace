@@ -1,0 +1,20 @@
+#website_navbar {
+    background-color: black !important;
+    color: white !important;
+}
+#website_body {
+    background: url(background.jpg);
+    color: white;
+}
+#main_page {
+    width: 45%;
+    border-radius: 15px;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+.project_divs {
+    width: 45%;
+    border-radius: 15px;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
